@@ -1,0 +1,6 @@
+[submodule "beyond-mfe-admin"]
+	path = beyond-mfe-admin
+	url = https://github.com/SoleaEnergy/beyond-mfe-admin.git
+[submodule "beyond-mfe-credit"]
+	path = beyond-mfe-credit
+	url = https://github.com/SoleaEnergy/beyond-mfe-credit.git
