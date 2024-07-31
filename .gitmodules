@@ -4,3 +4,60 @@
 [submodule "beyond-mfe-credit"]
 	path = beyond-mfe-credit
 	url = https://github.com/SoleaEnergy/beyond-mfe-credit.git
+[submodule "beyond-mfe-root"]
+	path = beyond-mfe-root
+	url = https://github.com/SoleaEnergy/beyond-mfe-root.git
+[submodule "beyond-mfe-pnl"]
+	path = beyond-mfe-pnl
+	url = https://github.com/SoleaEnergy/beyond-mfe-pnl.git
+[submodule "beyond-mfe-invoice"]
+	path = beyond-mfe-invoice
+	url = https://github.com/SoleaEnergy/beyond-mfe-invoice.git
+[submodule "beyond-mfe-risk"]
+	path = beyond-mfe-risk
+	url = https://github.com/SoleaEnergy/beyond-mfe-risk.git
+[submodule "beyond-mfe-market"]
+	path = beyond-mfe-market
+	url = https://github.com/SoleaEnergy/beyond-mfe-market.git
+[submodule "beyond-mfe-layout"]
+	path = beyond-mfe-layout
+	url = https://github.com/SoleaEnergy/beyond-mfe-layout.git
+[submodule "beyond-mfe-auth"]
+	path = beyond-mfe-auth
+	url = https://github.com/SoleaEnergy/beyond-mfe-auth.git
+[submodule "beyond-mfe-header"]
+	path = beyond-mfe-header
+	url = https://github.com/SoleaEnergy/beyond-mfe-header.git
+[submodule "beyond-mfe-footer"]
+	path = beyond-mfe-footer
+	url = https://github.com/SoleaEnergy/beyond-mfe-footer.git
+[submodule "beyond-mfe-nav"]
+	path = beyond-mfe-nav
+	url = https://github.com/SoleaEnergy/beyond-mfe-nav.git
+[submodule "beyond-mfe-storage"]
+	path = beyond-mfe-storage
+	url = https://github.com/SoleaEnergy/beyond-mfe-storage.git
+[submodule "beyond-mfe-api"]
+	path = beyond-mfe-api
+	url = https://github.com/SoleaEnergy/beyond-mfe-api.git
+[submodule "beyond-mfe-param"]
+	path = beyond-mfe-param
+	url = https://github.com/SoleaEnergy/beyond-mfe-param.git
+[submodule "beyond-mfe-portfolio"]
+	path = beyond-mfe-portfolio
+	url = https://github.com/SoleaEnergy/beyond-mfe-portfolio.git
+[submodule "beyond-mfe-subscription"]
+	path = beyond-mfe-subscription
+	url = https://github.com/SoleaEnergy/beyond-mfe-subscription.git
+[submodule "beyond-mfe-ftrauction"]
+	path = beyond-mfe-ftrauction
+	url = https://github.com/SoleaEnergy/beyond-mfe-ftrauction.git
+[submodule "beyond-mfe-oidc"]
+	path = beyond-mfe-oidc
+	url = https://github.com/SoleaEnergy/beyond-mfe-oidc.git
+[submodule "beyond-mfe-sts"]
+	path = beyond-mfe-sts
+	url = https://github.com/SoleaEnergy/beyond-mfe-sts.git
+[submodule "beyond-mfe-security"]
+	path = beyond-mfe-security
+	url = https://github.com/SoleaEnergy/beyond-mfe-security.git
